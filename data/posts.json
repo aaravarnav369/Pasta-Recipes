@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "The Ultimate Guide to Healthy Cooking",
+      "slug": "ultimate-guide-healthy-cooking",
+      "excerpt": "Learn how to prepare delicious and nutritious meals that will transform your health and wellbeing.",
+      "category": "Health",
+      "date": "2025-01-15",
+      "image": "/images/healthy-cooking.jpg",
+      "content": {
+        "paragraphs": [
+          "Cooking healthy meals doesn't have to be complicated or time-consuming. With the right techniques and ingredients, you can create delicious dishes that nourish your body and satisfy your taste buds.",
+          "The foundation of healthy cooking lies in using fresh, whole ingredients. Focus on incorporating plenty of vegetables, lean proteins, and complex carbohydrates into your meals.",
+          "Planning your meals in advance can save you time and help you make better food choices throughout the week. Consider batch cooking on weekends to prepare healthy options for the days ahead."
+        ],
+        "ingredients": [
+          "2 cups mixed vegetables",
+          "1 lb lean protein (chicken, fish, or tofu)",
+          "1 cup quinoa or brown rice",
+          "Olive oil",
+          "Herbs and spices for flavor"
+        ],
+        "steps": [
+          "Wash and chop all vegetables into bite-sized pieces.",
+          "Heat olive oil in a large pan over medium heat.",
+          "Add protein and cook until browned, then add vegetables.",
+          "Season with herbs and spices to taste.",
+          "Serve over quinoa or brown rice."
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "Top 10 Travel Destinations for 2025",
+      "slug": "top-10-travel-destinations-2025",
+      "excerpt": "Discover the most exciting places to visit this year, from hidden gems to popular favorites.",
+      "category": "Travel",
+      "date": "2025-01-10",
+      "image": "/images/travel-destinations.jpg",
+      "content": {
+        "paragraphs": [
+          "Traveling opens up new perspectives and creates lasting memories. As we look ahead to 2025, there are numerous destinations that offer unique experiences for every type of traveler.",
+          "From bustling cities with rich cultural histories to serene natural landscapes, the world is full of incredible places waiting to be explored. Whether you're seeking adventure, relaxation, or cultural immersion, there's a destination that's perfect for you.",
+          "When planning your travels, consider factors such as budget, time of year, and personal interests. Each destination offers its own unique attractions and experiences that can make your trip unforgettable."
+        ],
+        "ingredients": [],
+        "steps": [
+          "Research your destination thoroughly before traveling",
+          "Book accommodations in advance for better rates",
+          "Plan a flexible itinerary with must-see attractions",
+          "Pack appropriate clothing for the climate",
+          "Learn basic phrases in the local language"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "Mastering Personal Finance: A Complete Beginner's Guide",
+      "slug": "mastering-personal-finance-beginners-guide",
+      "excerpt": "Take control of your financial future with these essential money management strategies.",
+      "category": "Finance",
+      "date": "2025-01-05",
+      "image": "/images/personal-finance.jpg",
+      "content": {
+        "paragraphs": [
+          "Financial literacy is one of the most important skills you can develop. Understanding how to manage your money effectively can lead to financial independence and security.",
+          "The first step in mastering personal finance is to understand your income and expenses. Create a detailed budget that accounts for all sources of income and all types of expenses, both fixed and variable.",
+          "Building an emergency fund is crucial for financial stability. Aim to save at least three to six months' worth of expenses in a readily accessible account. This fund will provide a safety net in case of unexpected events such as job loss or medical emergencies."
+        ],
+        "ingredients": [],
+        "steps": [
+          "Calculate your monthly income and expenses",
+          "Identify areas where you can reduce spending",
+          "Set up automatic transfers to savings",
+          "Choose appropriate investment options based on your goals",
+          "Review and adjust your financial plan regularly"
+        ]
+      }
+    }
+  ]
+}
