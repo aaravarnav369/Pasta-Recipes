@@ -18,7 +18,7 @@ class BlogTheme {
 
     async loadPosts() {
         try {
-            const response = await fetch('../data/posts.json');
+            const response = await fetch('data/posts.json');
             const data = await response.json();
             this.posts = data.posts || [];
         } catch (error) {
